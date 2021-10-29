@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456841468057",
+    "project_id": "homebot2-c274a",
+    "storage_bucket": "homebot2-c274a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456841468057:android:ee94f41ce1aad385404008",
+        "android_client_info": {
+          "package_name": "homebot2.app.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456841468057-4ue0igooi0b9burhtr78i64bh2q1firt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXupubPmJiPAm3_cVjt7wl4Y_JtAnTHO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456841468057-4ue0igooi0b9burhtr78i64bh2q1firt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
