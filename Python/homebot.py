@@ -52,7 +52,7 @@ class IOT():
 
         self.refHome = db.reference(REF_HOME)
         
-        self.estructuraInicialDB() # solo ejecutar la primera vez
+        self.estructuraInicialDB() 
 
         self.refLuces = self.refHome.child(REF_LUCES)
         self.refLuzSala = self.refLuces.child(REF_LUZ_SALA)
